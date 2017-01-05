@@ -1,0 +1,9 @@
+import keyMirror from 'keymirror';
+
+module.exports = keyMirror({
+  RETAILDASHSHIPPING_CREATE: null,
+  RETAILDASHSHIPPING_LIST:null,
+  RETAILDASHSHIPPING_SHOW:null,
+  RETAILDASHSHIPPING_UPDATE:null,
+  RETAILDASHSHIPPING_DELETE:null
+});
